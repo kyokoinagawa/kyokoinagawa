@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kyokoinagawa
-- 👀 I’m interested in Data Engineering 
-- 🌱 I’m currently Java
+- 🌱 I’m currently a Java bootcamp student
 - 📫 How to reach me ...
 
 <!---
