@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kyokoinagawa
-- 🌱 I’m currently a Java bootcamp student
-- 📫 How to reach me ...
+- 📫 How to reach me: kyokoinagawa9@gmail.com
 
 <!---
 kyokoinagawa/kyokoinagawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
